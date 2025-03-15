@@ -1,0 +1,24 @@
+{
+  "name": "shortsgeneratordiscordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WouterVerschuren/ShortsGeneratorDiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WouterVerschuren/ShortsGeneratorDiscordBot/issues"
+  },
+  "homepage": "https://github.com/WouterVerschuren/ShortsGeneratorDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
